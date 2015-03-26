@@ -12,7 +12,7 @@ DWORD space_pressed_time = 0;
 
 BOOL is_something_was_pressed = FALSE;
 
-const int DELAY_TIME_MS = 70;
+const int DELAY_TIME_MS = 200;
 const int LONG_THINK_TIMEOUT_MS = 500;
 
 #define MAX_DELAYED_COUNT 20
